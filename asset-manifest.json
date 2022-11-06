@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tryam/static/css/main.128212d7.css",
+    "main.js": "/Tryam/static/js/main.f8c443db.js",
+    "index.html": "/Tryam/index.html",
+    "main.128212d7.css.map": "/Tryam/static/css/main.128212d7.css.map",
+    "main.f8c443db.js.map": "/Tryam/static/js/main.f8c443db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.128212d7.css",
+    "static/js/main.f8c443db.js"
+  ]
+}
