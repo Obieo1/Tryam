@@ -9,7 +9,7 @@ const App = () => {
   return (
     <Errorboundaries>
         <Routes basename="/Tryam">
-          <Route path="/" element={<Home />}></Route>
+          <Route path="/home" element={<Home />}></Route>
         </Routes>
       </Errorboundaries>
   );
