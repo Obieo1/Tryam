@@ -80,6 +80,18 @@ p{
     font-size: 4rem;
   font-weight: bold;
 }
+a{
+  text-decoration: none;
+  margin-top: 2rem;
+  padding: 20px;
+  background: purple;
+  color: #fff;
+  border-radius: 16px;
+  font-size: 20px;
+}
+a:hover{
+  background: var(--clr-primary-1);
+}
 button {
   text-transform: uppercase;
   background: transparent;

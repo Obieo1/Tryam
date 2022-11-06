@@ -1,4 +1,5 @@
 import { useReducer } from "react";
+import { Link } from "react-router-dom";
 
 const ACTION = {
   INCREMENT: "increment",
@@ -52,6 +53,7 @@ function Home() {
         </button>
       </section>
       <p>{state.userInput}</p>
+      <a href="./NotFound">Not Found page</a>
     </main>
   );
 }
